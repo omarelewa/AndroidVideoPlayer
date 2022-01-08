@@ -9,6 +9,8 @@ import android.widget.ImageView;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+import com.example.videoplayer.R;
+
 public class CustomGenreList extends ArrayAdapter {
     private String[] genreNames;
     private Integer[] imageId;
